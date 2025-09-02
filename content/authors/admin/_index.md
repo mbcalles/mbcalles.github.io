@@ -59,19 +59,19 @@ education:
   date_end: 2020-04-30
   summary: |
     Thesis: *Evaluating and utilizing crowdsourced data and population surveys in bicycling safety research*  
-    Supervisor: [Meghan Winters, PhD](http://www.sfu.ca/fhs/people/profiles/meghan-winters.html)
-
+    Supervisor: [Meghan Winters, PhD](http://www.sfu.ca/fhs/people/profiles/meghan-winters.html) 
     This research investigated alternative sources of bicycling safety data beyond traditional police, hospital, and insurance records.  
     Using crowdsourced data and population surveys, I evaluated biases, survey design effects, and links between infrastructure, individual characteristics, and perceived or objective bicycling safety.  
     Contributions include:
     - Demonstrating how crowdsourced and survey data can complement traditional datasets to fill reporting gaps.  
     - Identifying correlates of crash risk across sociodemographic, social, and built environment factors.  
     - Highlighting the importance of linking a-spatial survey data with geographic context to study multi-scale safety influences.
-
     The work underscores the potential of innovative data sources to advance bicycling safety research and guide policy.
+    
   button:
     text: 'Read Thesis'
     url: 'https://summit.sfu.ca/item/20298'
+    
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01

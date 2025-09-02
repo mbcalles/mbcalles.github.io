@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 吳健雄
+# title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Michael
+last_name: Branion-Calles
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,47 +23,55 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: The University of British Columbia
+    url:  https://rsph.med.ubc.ca/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:michael.calles@ubc.ca'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/michael-branion-calles-68b88215b/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com//citations?user=Yq8cIZMAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-3778-1176
+  - icon: brands/github
+    url: https://github.com/mbcalles
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Health Inequities
+- Road Safety
+- Environmental Health
+- Spatial Science
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+- area: PhD Health Sciences
+  institution: Simon Fraser University
+  date_start: 2015-09-01
+  date_end: 2020-04-30
+  summary: |
+    Thesis: *Evaluating and utilizing crowdsourced data and population surveys in bicycling safety research*  
+    Supervisor: [Meghan Winters, PhD](http://www.sfu.ca/fhs/people/profiles/meghan-winters.html)
+
+    This research investigated alternative sources of bicycling safety data beyond traditional police, hospital, and insurance records.  
+    Using crowdsourced data and population surveys, I evaluated biases, survey design effects, and links between infrastructure, individual characteristics, and perceived or objective bicycling safety.  
+    Contributions include:
+    - Demonstrating how crowdsourced and survey data can complement traditional datasets to fill reporting gaps.  
+    - Identifying correlates of crash risk across sociodemographic, social, and built environment factors.  
+    - Highlighting the importance of linking a-spatial survey data with geographic context to study multi-scale safety influences.
+
+    The work underscores the potential of innovative data sources to advance bicycling safety research and guide policy.
+  button:
+    text: 'Read Thesis'
+    url: 'https://summit.sfu.ca/item/20298'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01

@@ -72,7 +72,7 @@ education:
     date_start: 2013-01-01
     date_end: 2015-07-20
     summary: |
-      Thesis: _Modelling and Mapping Regional Indoor Radon Risk in British Columbia, Canada_. Co-Supervised by [Trisalyn Nelson, PhD](https://www.geog.ucsb.edu/people/faculty/trisalyn-nelson) &  Co-Supervised by [Sarah Henderson, PhD](https://spph.ubc.ca/faculty/professors/sarah-henderson/)
+      _Modelling and Mapping Regional Indoor Radon Risk in British Columbia, Canada_. Co-Supervised by [Trisalyn Nelson, PhD](https://www.geog.ucsb.edu/people/faculty/trisalyn-nelson) & by [Sarah Henderson, PhD](https://spph.ubc.ca/faculty/professors/sarah-henderson/)
       
       Courses included:
       - Data management and visualization
@@ -104,6 +104,18 @@ work:
       - Leading innovative research investigating road traffic injury patterns and severity among disadvantaged populations across British Columbia through social environment and equity lens
       - Secured CIHR project funding as key contributor by conceptualizing research framework and developing methodological design
       - Implementing advanced spatial analysis and disease mapping methodologies to identify risk patterns and their associations with neighborhood socioeconomic indicators
+  - position: Health System Impact Postdoctoral Fellow
+    company_name: BC Ministry Health and University of British Columbia
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: '2023-08-31'
+    summary: |-
+      - Led research within the Injury & Clinical Prevention Team (Population and Public Health Division), focusing on descriptive epidemiology of active transportation injury 
+      - Executed large-scale administrative data processing and statistical analysis in R
+      - Built an inventory of provincial injury datasets and modelled intervention impacts to support the Injury Prevention & Health Settings branch
+      - Translated findings into actionable briefs for Health and Transportation ministries
+      - Published findings in peer-reviewed journals including *Journal of Transport & Health* and *Transportation Research Interdisciplinary Perspectives*
   # - position: Health System Impact Postdoctoral Fellow
   #   company_name: BC Ministry Health and University of British Columbia
   #   company_url: ''
@@ -111,7 +123,7 @@ work:
   #   date_start: 2021-01-01
   #   date_end: 2023-08-31
   #   summary: |-
-  #     - Orchestrated evidence-based policy research within the Injury & Clinical Prevention Team (Population and Public Health Division), focusing on active transportation safety
+  #     - 
   #     - Designed prevention strategies by analysing integrated datasets (police records, insurance claims, hospital admissions)
   #     - Executed large-scale administrative data processing and statistical analysis in R
   #     - Built an inventory of provincial injury datasets and modelled intervention impacts to support the Injury Prevention & Health Settings branch

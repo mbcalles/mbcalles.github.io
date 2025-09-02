@@ -104,31 +104,30 @@ work:
       - Leading innovative research investigating road traffic injury patterns and severity among disadvantaged populations across British Columbia through social environment and equity lens
       - Secured CIHR project funding as key contributor by conceptualizing research framework and developing methodological design
       - Implementing advanced spatial analysis and disease mapping methodologies to identify risk patterns and their associations with neighborhood socioeconomic indicators
-  - position: Health System Impact Postdoctoral Fellow
-    company_name: BC Ministry Health and University of British Columbia
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: 2023-08-31
-    summary: |-
-      - Orchestrated evidence-based policy research within the Injury & Clinical Prevention Team (Population and Public Health Division), focusing on active transportation safety
-      - Designed prevention strategies by analysing integrated datasets (police records, insurance claims, hospital admissions)
-      - Executed large-scale administrative data processing and statistical analysis in R
-      - Built an inventory of provincial injury datasets and modelled intervention impacts to support the Injury Prevention & Health Settings branch
-      - Translated findings into actionable briefs for Health and Transportation ministries
-      - Published findings in peer-reviewed journals including *Journal of Transport & Health* and *Transportation Research Interdisciplinary Perspectives*
-
-    - position: Postdoctoral Research Fellow
-      company_name: Toronto Metropolitan University
-      company_url: ''
-      company_logo: ''
-      date_start: 2020-05-01
-      date_end: 2020-12-31
-      summary: |-
-      - Spearheaded nationwide research on road traffic injury risks using Statistics Canada’s population‑based linked dataset (CanCHEC), encompassing over five million records
-      - Engineered data processing workflows and implemented linkage protocols within secure computing environments using R
-      - Conducted sophisticated time‑to‑event (survival) analyses to evaluate population‑level transportation injury risks
-      - Published findings in the high‑impact journal *Epidemiology*
+  # - position: Health System Impact Postdoctoral Fellow
+  #   company_name: BC Ministry Health and University of British Columbia
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2021-01-01
+  #   date_end: 2023-08-31
+  #   summary: |-
+  #     - Orchestrated evidence-based policy research within the Injury & Clinical Prevention Team (Population and Public Health Division), focusing on active transportation safety
+  #     - Designed prevention strategies by analysing integrated datasets (police records, insurance claims, hospital admissions)
+  #     - Executed large-scale administrative data processing and statistical analysis in R
+  #     - Built an inventory of provincial injury datasets and modelled intervention impacts to support the Injury Prevention & Health Settings branch
+  #     - Translated findings into actionable briefs for Health and Transportation ministries
+  #     - Published findings in peer-reviewed journals including *Journal of Transport & Health* and *Transportation Research Interdisciplinary Perspectives*
+  #   - position: Postdoctoral Research Fellow
+  #     company_name: Toronto Metropolitan University
+  #     company_url: ''
+  #     company_logo: ''
+  #     date_start: 2020-05-01
+  #     date_end: 2020-12-31
+  #     summary: |-
+  #     - Spearheaded nationwide research on road traffic injury risks using Statistics Canada’s population‑based linked dataset (CanCHEC), encompassing over five million records
+  #     - Engineered data processing workflows and implemented linkage protocols within secure computing environments using R
+  #     - Conducted sophisticated time‑to‑event (survival) analyses to evaluate population‑level transportation injury risks
+  #     - Published findings in the high‑impact journal *Epidemiology*
 
 # skills:
 #   - name: Programming & Data

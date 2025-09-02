@@ -11,11 +11,10 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+   site_type: Person
+    org_name: "Michael Branion-Calles"
+    description: "Health geographer and epidemiologist researching road safety, active transportation, and health inequities."
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -58,3 +57,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
+    
+#  
+favicon:
+  logo: "mbc.png"                 # place in /static/

@@ -100,7 +100,7 @@ work:
     company_logo: ''
     date_start: 2023-01-01
     date_end: ''
-    summary: |2-
+    summary: |-
       - Leading innovative research investigating road traffic injury patterns and severity among disadvantaged populations across British Columbia through social environment and equity lens
       - Secured CIHR project funding as key contributor by conceptualizing research framework and developing methodological design
       - Implementing advanced spatial analysis and disease mapping methodologies to identify risk patterns and their associations with neighborhood socioeconomic indicators
@@ -111,13 +111,13 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: 2023-08-31
-    summary: |2-
-      - Orchestrated evidence‑based policy research within the Injury & Clinical Prevention Team at the Population and Public Health Division, focusing on active transportation safety
-      - Designed comprehensive injury prevention strategies by analyzing integrated datasets of police records, insurance claims, and hospital admissions
-      - Executed complex data processing and statistical analysis of large‑scale administrative databases using advanced R programming
-      - Developed strategic support for the Injury Prevention & Health Settings branch, including creating a comprehensive inventory of provincial injury datasets and modeling intervention program impacts
-      - Synthesized research findings into actionable knowledge translation products for key stakeholders in Health and Transportation ministries
-      - Published findings in peer-reviewed journals including Journal of Transport and Health and Transportation Research Interdiscplinary Perspectives
+    summary: |-
+      - Orchestrated evidence-based policy research within the Injury & Clinical Prevention Team (Population and Public Health Division), focusing on active transportation safety
+      - Designed prevention strategies by analysing integrated datasets (police records, insurance claims, hospital admissions)
+      - Executed large-scale administrative data processing and statistical analysis in R
+      - Built an inventory of provincial injury datasets and modelled intervention impacts to support the Injury Prevention & Health Settings branch
+      - Translated findings into actionable briefs for Health and Transportation ministries
+      - Published findings in peer-reviewed journals including *Journal of Transport & Health* and *Transportation Research Interdisciplinary Perspectives*
 
     - position: Postdoctoral Research Fellow
       company_name: Toronto Metropolitan University
@@ -125,11 +125,11 @@ work:
       company_logo: ''
       date_start: 2020-05-01
       date_end: 2020-12-31
-      summary: |2-
+      summary: |-
       - Spearheaded nationwide research on road traffic injury risks using Statistics Canada’s population‑based linked dataset (CanCHEC), encompassing over five million records
       - Engineered data processing workflows and implemented linkage protocols within secure computing environments using R
       - Conducted sophisticated time‑to‑event (survival) analyses to evaluate population‑level transportation injury risks
-      - Published findings in the high‑impact journal_Epidemiology
+      - Published findings in the high‑impact journal *Epidemiology*
 
 # skills:
 #   - name: Programming & Data

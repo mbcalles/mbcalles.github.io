@@ -58,30 +58,37 @@ education:
     date_start: 2015-01-01
     date_end: 2020-04-30
     summary: |
-      Thesis: _Evaluating and utilizing crowdsourced data and population surveys in bicycling safety research_. Supervised by [Meghan Winters, PhD](http://www.sfu.ca/fhs/people/profiles/meghan-winters.html)
-    button:
-      text: 'Read Thesis'
-      url: 'https://summit.sfu.ca/item/20298'
-    Courses included:
+      _Evaluating and utilizing crowdsourced data and population surveys in bicycling safety research_. Supervised by [Meghan Winters, PhD](http://www.sfu.ca/fhs/people/profiles/meghan-winters.html)
+      
+      Courses included:
       - Epidemiology
       - Environmental Epidemiology
       - Biostatistics
       - Transportation Engineering Impacts via University of British Columbia
+    button:
+      text: 'Read Thesis'
+      url: 'https://summit.sfu.ca/item/20298'
+    
+
       
   - area: MSc Geography
     institution: University of Victoria
     date_start: 2013-01-01
     date_end: 2015-07-20
     summary: |
-      Thesis: _Evaluating and utilizing crowdsourced data and population surveys in bicycling safety research_. Supervised by [Trisalyn Nelson, PhD](https://www.geog.ucsb.edu/people/faculty/trisalyn-nelson)
-          button:
-      text: 'Read Thesis'
-      url: 'https://dspace.library.uvic.ca/items/5435346d-6ae0-473b-8108-e8dbda5b6a36'
+      Thesis: _Modelling and Mapping Regional Indoor Radon Risk in British Columbia, Canada_. Co-Supervised by [Trisalyn Nelson, PhD](https://www.geog.ucsb.edu/people/faculty/trisalyn-nelson) &  Co-Supervised by [Sarah Henderson, PhD](https://spph.ubc.ca/faculty/professors/sarah-henderson/)
+      
       Courses included:
       - Data management and visualization
       - Geographical Research Approaches and Designs
       - Advanced Quantitative Methods in Geography
       - Advanced Seminar in Geomatics
+    
+    button:
+      text: 'Read Thesis'
+      url: 'https://dspace.library.uvic.ca/items/5435346d-6ae0-473b-8108-e8dbda5b6a36'
+    
+
   - area: BSc Geography (Geomatics Concentration), with Distinction
     institution: University of Victoria
     date_start: 2008-09-01

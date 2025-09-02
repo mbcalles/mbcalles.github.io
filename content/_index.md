@@ -36,14 +36,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
-      subtitle: ''
+      title: 'My Research'
+      subtitle: 'Exploring how social and environmental contexts shape health outcomes'
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My research applies spatial epidemiology to understand and prevent road traffic injuries. Current and recent projects include:
+        - **Sociospatial inequities in road traffic injury risk** — identifying how neighbourhood social and built environments influence injury patterns across British Columbia.  
+        - **Traffic injury administrative data linkage ** — integrating health, police, and insurance datasets to generate population-level insights into injury risk.  
+        - **Cycling and active transportation safety** — evaluating the role of infrastructure, social norms, and survey design in shaping perceived and objective safety.  
+        - **Advanced statistical and spatial methods** — applying Bayesian spatial models, survival analysis, and disease mapping to assess health inequities.
     design:
       columns: '1'
   - block: collection

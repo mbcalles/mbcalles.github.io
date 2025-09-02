@@ -12,8 +12,6 @@ authors:
 - M. Anne Harris
 - Jeffrey R. Brubacher
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2025-04-02T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
@@ -45,7 +43,7 @@ hugoblox:
 
 links:
   - type: pdf
-    url: ./manuscript.pdf
+    url: manuscript.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -69,6 +67,3 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}

@@ -39,7 +39,7 @@ sections:
       title: 'My Research'
       subtitle: 'Exploring how social and environmental contexts shape health outcomes'
       text: |-
-        My research applies geographic and epidmeiological approaches to undderstanding and prevent road traffic injuries. Current and recent projects include:
+        My research applies geographic and epidemiological approaches to understanding and prevent road traffic injuries. Current and recent projects include:
         - **Sociospatial inequities in road traffic injury risk** — identifying how neighbourhood social and built environments influence injury patterns across British Columbia.
         - **Traffic injury administrative data linkage** — integrating health, police, and insurance datasets to generate population-level insights into injury risk.  
         - **Advanced statistical and spatial methods** — applying Bayesian spatial models, survival analysis, and disease mapping to assess health inequities.

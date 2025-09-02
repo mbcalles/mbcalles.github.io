@@ -68,8 +68,7 @@ education:
     The work underscores the potential of innovative data sources to advance bicycling safety research and guide policy.
   button:
     text: 'Read Thesis'
-    url: https://summit.sfu.ca/item/20298
-    
+    url: 'https://summit.sfu.ca/item/20298'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01

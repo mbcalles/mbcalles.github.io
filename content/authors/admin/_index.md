@@ -58,32 +58,40 @@ education:
     date_start: 2015-01-01
     date_end: 2020-04-30
     summary: |
-      Evaluating and utilizing crowdsourced data and population surveys in bicycling safety research. Supervised by [Meghan Winters, PhD](http://www.sfu.ca/fhs/people/profiles/meghan-winters.html)
+      Thesis: _Evaluating and utilizing crowdsourced data and population surveys in bicycling safety research_. Supervised by [Meghan Winters, PhD](http://www.sfu.ca/fhs/people/profiles/meghan-winters.html)
     button:
       text: 'Read Thesis'
       url: 'https://summit.sfu.ca/item/20298'
+    Courses included:
+      - Epidemiology
+      - Environmental Epidemiology
+      - Biostatistics
+      - Transportation Engineering Impacts via University of British Columbia
+      
   - area: MSc Geography
     institution: University of Victoria
     date_start: 2013-01-01
-    date_end: 2015-06-30
+    date_end: 2015-07-20
     summary: |
-      GPA: 3.8/4.0
-
+      Thesis: _Evaluating and utilizing crowdsourced data and population surveys in bicycling safety research_. Supervised by [Trisalyn Nelson, PhD](https://www.geog.ucsb.edu/people/faculty/trisalyn-nelson)
+          button:
+      text: 'Read Thesis'
+      url: 'https://dspace.library.uvic.ca/items/5435346d-6ae0-473b-8108-e8dbda5b6a36'
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Data management and visualization
+      - Geographical Research Approaches and Designs
+      - Advanced Quantitative Methods in Geography
+      - Advanced Seminar in Geomatics
+  - area: BSc Geography (Geomatics Concentration), with Distinction
+    institution: University of Victoria
+    date_start: 2008-09-01
+    date_end: 2013-05-02
     summary: |
-      GPA: 3.4/4.0
+      GPA: 4.0/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Advanced Spatial Analysis 
+      - Directed Studies: Applied Spatial Analysis Research
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin

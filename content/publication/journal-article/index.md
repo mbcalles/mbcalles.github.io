@@ -34,9 +34,9 @@ abstract: "Walking and cycling offer health benefits but carry injury risks. Tra
 summary:"Pedestrian and cyclist falls cause more hospital admissions than collisions with motor vehicles in British Columbia, with falls accounting for 68.8% of pedestrian and 48.6% of cyclist admissions compared to 29.2% and 27.6% for vehicle collisions respectively."
 
 tags:
-- Pedestrian falls
-- Cyclist falls
-- Sociodemographics
+# - Pedestrian falls
+# - Cyclist falls
+# - Sociodemographics
 featured: true
 
 hugoblox:

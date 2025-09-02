@@ -117,7 +117,7 @@ work:
       - Executed complex data processing and statistical analysis of large‑scale administrative databases using advanced R programming
       - Developed strategic support for the Injury Prevention & Health Settings branch, including creating a comprehensive inventory of provincial injury datasets and modeling intervention program impacts
       - Synthesized research findings into actionable knowledge translation products for key stakeholders in Health and Transportation ministries
-      - Published findings in peer-reviewed journals including _Journal of Transport and Health_ and _Transportation Research Interdiscplinary Perspectives_
+      - Published findings in peer-reviewed journals including Journal of Transport and Health and Transportation Research Interdiscplinary Perspectives
 
     - position: Postdoctoral Research Fellow
       company_name: Toronto Metropolitan University
@@ -129,35 +129,35 @@ work:
       - Spearheaded nationwide research on road traffic injury risks using Statistics Canada’s population‑based linked dataset (CanCHEC), encompassing over five million records
       - Engineered data processing workflows and implemented linkage protocols within secure computing environments using R
       - Conducted sophisticated time‑to‑event (survival) analyses to evaluate population‑level transportation injury risks
-      - Published findings in the high‑impact journal _Epidemiology_
+      - Published findings in the high‑impact journal_Epidemiology
 
-skills:
-  - name: Programming & Data
-    items:
-      - name: R / SAS / SQL
-        description: Applied statistical programming and database analysis for public health research
-        icon: code-bracket
-      - name: Git/GitHub
-        description: Version control and collaborative code management
-        icon: github
-
-  - name: Spatial / GIS
-    items:
-      - name: ArcGIS / QGIS / PostGIS
-        description: Spatial data management and geographic information systems
-        icon: map
-      - name: Spatial analysis in R
-        description: Integrating spatial workflows with statistical methods
-        icon: chart-bar
-
-  - name: Modelling & Visualisation
-    items:
-      - name: Statistical modelling
-        description: GLMs, mixed-effects, survival, and Bayesian spatial analysis
-        icon: function
-      - name: R Markdown / ggplot2 / Tableau
-        description: Reproducible reporting and data visualisation
-        icon: chart-bar
+# skills:
+#   - name: Programming & Data
+#     items:
+#       - name: R / SAS / SQL
+#         description: Applied statistical programming and database analysis for public health research
+#         icon: code-bracket
+#       - name: Git/GitHub
+#         description: Version control and collaborative code management
+#         icon: github
+# 
+#   - name: Spatial / GIS
+#     items:
+#       - name: ArcGIS / QGIS / PostGIS
+#         description: Spatial data management and geographic information systems
+#         icon: map
+#       - name: Spatial analysis in R
+#         description: Integrating spatial workflows with statistical methods
+#         icon: chart-bar
+# 
+#   - name: Modelling & Visualisation
+#     items:
+#       - name: Statistical modelling
+#         description: GLMs, mixed-effects, survival, and Bayesian spatial analysis
+#         icon: function
+#       - name: R Markdown / ggplot2 / Tableau
+#         description: Reproducible reporting and data visualisation
+#         icon: chart-bar
 
 # # languages:
 #   - name: English

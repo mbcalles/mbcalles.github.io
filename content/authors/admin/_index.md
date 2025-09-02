@@ -36,7 +36,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:michael.calles@ubc.ca'
     label: E-mail Me
-
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/michael-branion-calles-68b88215b/
   - icon: academicons/google-scholar
@@ -68,9 +67,6 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://summit.sfu.ca/item/20298'
-    
-
-      
   - area: MSc Geography
     institution: University of Victoria
     date_start: 2013-01-01
@@ -87,8 +83,6 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://dspace.library.uvic.ca/items/5435346d-6ae0-473b-8108-e8dbda5b6a36'
-    
-
   - area: BSc Geography (Geomatics Concentration), with Distinction
     institution: University of Victoria
     date_start: 2008-09-01
@@ -100,28 +94,34 @@ education:
       - Advanced Spatial Analysis 
       - Directed Studies: Applied Spatial Analysis Research
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Postdoctoral Research Fellow
+    company_name: The University of British Columbia
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Leading innovative research investigating road traffic injury patterns and severity among disadvantaged populations across British Columbia
+through social environment and equity lens
+      - Secured CIHR project funding as key contributor by conceptualizing research framework and developing methodological design
+      - Implementing advanced spatial analysis and disease mapping methodologies to identify risk patterns and their associations with neighborhood
+socioeconomic indicators
+  - position: Health System Impact Postdoctoral Fellowship
+    company_name: BC Ministry Health and University of British Colubia
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-01-01
+    date_end: 2023-08-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Orchestrated evidence‑based policy research within the Injury & Clinical Prevention Team at the Population and Public Health Division, focusing
+on active transportation safety
+      - Designed comprehensive injury prevention strategies by analyzing integrated datasets of police records, insurance claims, and hospital admissions
+      - Executed complex data processing and statistical analysis of large‑scale administrative databases using advanced R programming
+      - Developed strategic support for the Injury Prevention & Health Settings branch, including creating a comprehensive inventory of provincial
+injury datasets and modeling intervention program impacts
+      - Synthesized research findings into actionable knowledge translation products for key stakeholders in Health and Transportation ministries
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -157,7 +157,7 @@ skills:
         percent: 80
         icon: camera
 
-languages:
+# languages:
   - name: English
     percent: 100
   - name: Chinese

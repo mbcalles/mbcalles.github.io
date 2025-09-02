@@ -101,41 +101,63 @@ work:
     date_start: 2023-01-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
       - Leading innovative research investigating road traffic injury patterns and severity among disadvantaged populations across British Columbia through social environment and equity lens
       - Secured CIHR project funding as key contributor by conceptualizing research framework and developing methodological design
       - Implementing advanced spatial analysis and disease mapping methodologies to identify risk patterns and their associations with neighborhood socioeconomic indicators
-  - position: Health System Impact Postdoctoral Fellowship
-    company_name: BC Ministry Health and University of British Colubia
+
+  - position: Health System Impact Postdoctoral Fellow
+    company_name: BC Ministry Health and University of British Columbia
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: 2023-08-31
     summary: |
-      Responsibilities include:
       - Orchestrated evidence‑based policy research within the Injury & Clinical Prevention Team at the Population and Public Health Division, focusing on active transportation safety
       - Designed comprehensive injury prevention strategies by analyzing integrated datasets of police records, insurance claims, and hospital admissions
       - Executed complex data processing and statistical analysis of large‑scale administrative databases using advanced R programming
       - Developed strategic support for the Injury Prevention & Health Settings branch, including creating a comprehensive inventory of provincial injury datasets and modeling intervention program impacts
       - Synthesized research findings into actionable knowledge translation products for key stakeholders in Health and Transportation ministries
+      - Published findings in peer-reviewed journals including _Journal of Transport and Health_, _Transportation Research Interdiscplinary Perspectives_
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
+    - position: Postdoctoral Research Fellow
+    company_name: Toronto Metropolitan University
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-05-01
+    date_end: 2020-12-31
+    summary: |
+      - Spearheaded nationwide research on road traffic injury risks using Statistics Canada’s population‑based linked dataset (CanCHEC), encompassing over five million records
+      - Engineered data processing workflows and implemented linkage protocols within secure computing environments using R
+      - Conducted sophisticated time‑to‑event (survival) analyses to evaluate population‑level transportation injury risks
+      - Published findings in the high‑impact journal _Epidemiology_
+
 skills:
-  - name: Technical Skills
+  - name: Programming & Data
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: R / SAS / SQL
+        description: Applied statistical programming and database analysis for public health research
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Git/GitHub
+        description: Version control and collaborative code management
+        icon: github
+
+  - name: Spatial / GIS
+    items:
+      - name: ArcGIS / QGIS / PostGIS
+        description: Spatial data management and geographic information systems
+        icon: map
+      - name: Spatial analysis in R
+        description: Integrating spatial workflows with statistical methods
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+
+  - name: Modelling & Visualisation
+    items:
+      - name: Statistical modelling
+        description: GLMs, mixed-effects, survival, and Bayesian spatial analysis
+        icon: function
+      - name: R Markdown / ggplot2 / Tableau
+        description: Reproducible reporting and data visualisation
+        icon: chart-bar
 
 # # languages:
 #   - name: English

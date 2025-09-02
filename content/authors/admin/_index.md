@@ -184,7 +184,6 @@ awards:
 
 ## About Me
 
-"I`’m a health geographer and epidemiologist exploring relationships between injury, health, transportation, and social inequalities. 
-My work combines spatial analysis with epidemiological methods to generate insights into public health challenges with a specific focus on road traffic injury and active transportation. 
-As a postdoctoral research fellow in the Road Safety & Public Health Research Lab at the University of British Columbia, I lead interdisciplinary research projects using large, linked administrative databases. 
-My goal is to produce actionable findings that contribute to creating safer and more equitable communities."
+I’m a health geographer and epidemiologist researching the intersections of injury, health, transportation, and social inequality.
+At the University of British Columbia, I use spatial and epidemiological methods with large linked datasets to study road traffic injury and active transportation.
+My work aims to produce evidence that supports safer, more equitable communities.

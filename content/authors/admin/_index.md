@@ -57,7 +57,7 @@ education:
     date_start: 2015-01-01
     date_end: 2020-04-30
     summary: |
-      _Evaluating and utilizing crowdsourced data and population surveys in bicycling safety research_. Supervised by [Meghan Winters, PhD](http://www.sfu.ca/fhs/people/profiles/meghan-winters.html)
+      Dissertation: _Evaluating and utilizing crowdsourced data and population surveys in bicycling safety research_. Supervised by [Meghan Winters, PhD](http://www.sfu.ca/fhs/people/profiles/meghan-winters.html)
       
       Courses included:
       - Epidemiology
@@ -72,7 +72,7 @@ education:
     date_start: 2013-01-01
     date_end: 2015-07-20
     summary: |
-      _Modelling and Mapping Regional Indoor Radon Risk in British Columbia, Canada_. Co-Supervised by [Trisalyn Nelson, PhD](https://www.geog.ucsb.edu/people/faculty/trisalyn-nelson) & by [Sarah Henderson, PhD](https://spph.ubc.ca/faculty/professors/sarah-henderson/)
+      Thesis: _Modelling and Mapping Regional Indoor Radon Risk in British Columbia, Canada_. Co-Supervised by [Trisalyn Nelson, PhD](https://www.geog.ucsb.edu/people/faculty/trisalyn-nelson) & by [Sarah Henderson, PhD](https://spph.ubc.ca/faculty/professors/sarah-henderson/)
       
       Courses included:
       - Data management and visualization
@@ -128,45 +128,34 @@ work:
       - Conducted sophisticated time‑to‑event (survival) analyses to evaluate population‑level transportation injury risks
       - Translated findings into actionable briefs for Health and Transportation ministries
       - Published findings in the high‑impact journal *Epidemiology*
-  #   - position: Postdoctoral Research Fellow
-  #     company_name: Toronto Metropolitan University
-  #     company_url: ''
-  #     company_logo: ''
-  #     date_start: 2020-05-01
-  #     date_end: 2020-12-31
-  #     summary: |-
-  #     - Spearheaded nationwide research on road traffic injury risks using Statistics Canada’s population‑based linked dataset (CanCHEC), encompassing over five million records
-  #     - Engineered data processing workflows and implemented linkage protocols within secure computing environments using R
-  #     - Conducted sophisticated time‑to‑event (survival) analyses to evaluate population‑level transportation injury risks
-  #     - Published findings in the high‑impact journal *Epidemiology*
 
-# skills:
-#   - name: Programming & Data
-#     items:
-#       - name: R / SAS / SQL
-#         description: Applied statistical programming and database analysis for public health research
-#         icon: code-bracket
-#       - name: Git/GitHub
-#         description: Version control and collaborative code management
-#         icon: github
-# 
-#   - name: Spatial / GIS
-#     items:
-#       - name: ArcGIS / QGIS / PostGIS
-#         description: Spatial data management and geographic information systems
-#         icon: map
-#       - name: Spatial analysis in R
-#         description: Integrating spatial workflows with statistical methods
-#         icon: chart-bar
-# 
-#   - name: Modelling & Visualisation
-#     items:
-#       - name: Statistical modelling
-#         description: GLMs, mixed-effects, survival, and Bayesian spatial analysis
-#         icon: function
-#       - name: R Markdown / ggplot2 / Tableau
-#         description: Reproducible reporting and data visualisation
-#         icon: chart-bar
+skills:
+  - name: Programming & Data
+    items:
+      - name: R / SAS / SQL
+        description: Applied statistical programming and database analysis for public health research
+        icon: code-bracket
+      - name: Git/GitHub
+        description: Version control and collaborative code management
+        icon: github
+
+  - name: Spatial / GIS
+    items:
+      - name: ArcGIS / QGIS / PostGIS
+        description: Spatial data management and geographic information systems
+        icon: map
+      - name: Spatial analysis in R
+        description: Integrating spatial workflows with statistical methods
+        icon: chart-bar
+
+  - name: Modelling & Visualisation
+    items:
+      - name: Statistical modelling
+        description: GLMs, mixed-effects, survival, and Bayesian spatial analysis
+        icon: function
+      - name: R Markdown / ggplot2 / Tableau
+        description: Reproducible reporting and data visualisation
+        icon: chart-bar
 
 # # languages:
 #   - name: English

@@ -116,19 +116,18 @@ work:
       - Built an inventory of provincial injury datasets and modelled intervention impacts to support the Injury Prevention & Health Settings branch
       - Translated findings into actionable briefs for Health and Transportation ministries
       - Published findings in peer-reviewed journals including *Journal of Transport & Health* and *Transportation Research Interdisciplinary Perspectives*
-  # - position: Health System Impact Postdoctoral Fellow
-  #   company_name: BC Ministry Health and University of British Columbia
-  #   company_url: ''
-  #   company_logo: ''
-  #   date_start: 2021-01-01
-  #   date_end: 2023-08-31
-  #   summary: |-
-  #     - 
-  #     - Designed prevention strategies by analysing integrated datasets (police records, insurance claims, hospital admissions)
-  #     - Executed large-scale administrative data processing and statistical analysis in R
-  #     - Built an inventory of provincial injury datasets and modelled intervention impacts to support the Injury Prevention & Health Settings branch
-  #     - Translated findings into actionable briefs for Health and Transportation ministries
-  #     - Published findings in peer-reviewed journals including *Journal of Transport & Health* and *Transportation Research Interdisciplinary Perspectives*
+  - position: Postdoctoral Research Fellow
+    company_name: Toronto Metropolitan University
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-05-01
+    date_end: '2021-12-31'
+    summary: |-
+      - Led nationwide research on road traffic injury risks using Statistics Canada’s population‑based linked dataset (CanCHEC), encompassing over five million records
+      - Engineered data processing workflows and implemented linkage protocols within secure computing environments using R
+      - Conducted sophisticated time‑to‑event (survival) analyses to evaluate population‑level transportation injury risks
+      - Translated findings into actionable briefs for Health and Transportation ministries
+      - Published findings in the high‑impact journal *Epidemiology*
   #   - position: Postdoctoral Research Fellow
   #     company_name: Toronto Metropolitan University
   #     company_url: ''

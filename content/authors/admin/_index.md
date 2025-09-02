@@ -104,7 +104,6 @@ work:
       - Leading innovative research investigating road traffic injury patterns and severity among disadvantaged populations across British Columbia through social environment and equity lens
       - Secured CIHR project funding as key contributor by conceptualizing research framework and developing methodological design
       - Implementing advanced spatial analysis and disease mapping methodologies to identify risk patterns and their associations with neighborhood socioeconomic indicators
-
   - position: Health System Impact Postdoctoral Fellow
     company_name: BC Ministry Health and University of British Columbia
     company_url: ''

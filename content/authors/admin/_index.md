@@ -36,7 +36,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:michael.calles@ubc.ca'
     label: E-mail Me
-
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/michael-branion-calles-68b88215b/
   - icon: academicons/google-scholar
@@ -67,7 +66,6 @@ education:
     - Identifying correlates of crash risk across sociodemographic, social, and built environment factors.  
     - Highlighting the importance of linking a-spatial survey data with geographic context to study multi-scale safety influences.
     The work underscores the potential of innovative data sources to advance bicycling safety research and guide policy.
-    
   button:
     text: 'Read Thesis'
     url: 'https://summit.sfu.ca/item/20298'

@@ -58,6 +58,4 @@ features:
     enable: false
   privacy_pack:
     enable: false
-# icon
-favicon:
-  logo: "mbc.png"
+

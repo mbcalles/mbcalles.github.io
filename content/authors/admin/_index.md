@@ -1,6 +1,6 @@
 ---
 # Display name
-# title: 吳健雄
+title: Michael Branion-Calles
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -53,19 +53,19 @@ interests:
 - Spatial Science
 
 education:
-  - area: PhD Health
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Health Sciences
+    institution: Simon Fraser University
+    date_start: 2015-01-01
+    date_end: 2020-04-30
     summary: |
       Evaluating and utilizing crowdsourced data and population surveys in bicycling safety research. Supervised by [Meghan Winters, PhD](http://www.sfu.ca/fhs/people/profiles/meghan-winters.html)
     button:
       text: 'Read Thesis'
       url: 'https://summit.sfu.ca/item/20298'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Geography
+    institution: University of Victoria
+    date_start: 2013-01-01
+    date_end: 2015-06-30
     summary: |
       GPA: 3.8/4.0
 
@@ -184,4 +184,7 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+"I`’m a health geographer and epidemiologist exploring relationships between injury, health, transportation, and social inequalities. 
+My work combines spatial analysis with epidemiological methods to generate insights into public health challenges with a specific focus on road traffic injury and active transportation. 
+As a postdoctoral research fellow in the Road Safety & Public Health Research Lab at the University of British Columbia, I lead interdisciplinary research projects using large, linked administrative databases. 
+My goal is to produce actionable findings that contribute to creating safer and more equitable communities."

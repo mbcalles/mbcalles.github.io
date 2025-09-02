@@ -102,11 +102,9 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - Leading innovative research investigating road traffic injury patterns and severity among disadvantaged populations across British Columbia
-through social environment and equity lens
+      - Leading innovative research investigating road traffic injury patterns and severity among disadvantaged populations across British Columbia through social environment and equity lens
       - Secured CIHR project funding as key contributor by conceptualizing research framework and developing methodological design
-      - Implementing advanced spatial analysis and disease mapping methodologies to identify risk patterns and their associations with neighborhood
-socioeconomic indicators
+      - Implementing advanced spatial analysis and disease mapping methodologies to identify risk patterns and their associations with neighborhood socioeconomic indicators
   - position: Health System Impact Postdoctoral Fellowship
     company_name: BC Ministry Health and University of British Colubia
     company_url: ''
@@ -115,12 +113,10 @@ socioeconomic indicators
     date_end: 2023-08-31
     summary: |
       Responsibilities include:
-      - Orchestrated evidence‑based policy research within the Injury & Clinical Prevention Team at the Population and Public Health Division, focusing
-on active transportation safety
+      - Orchestrated evidence‑based policy research within the Injury & Clinical Prevention Team at the Population and Public Health Division, focusing on active transportation safety
       - Designed comprehensive injury prevention strategies by analyzing integrated datasets of police records, insurance claims, and hospital admissions
       - Executed complex data processing and statistical analysis of large‑scale administrative databases using advanced R programming
-      - Developed strategic support for the Injury Prevention & Health Settings branch, including creating a comprehensive inventory of provincial
-injury datasets and modeling intervention program impacts
+      - Developed strategic support for the Injury Prevention & Health Settings branch, including creating a comprehensive inventory of provincial injury datasets and modeling intervention program impacts
       - Synthesized research findings into actionable knowledge translation products for key stakeholders in Health and Transportation ministries
 
 # Skills
@@ -140,30 +136,14 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
-# languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+# # languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 75
+#   - name: Portuguese
+#     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.

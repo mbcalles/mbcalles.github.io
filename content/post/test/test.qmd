@@ -1,7 +1,15 @@
 ---
-title: "test"
-format: html
-editor: visual
+title: "Test"
+date: "2025-09-03"
+toc: true
+math: true
+format:
+  gfm:   # Quarto → GitHub-flavored Markdown
+    wrap: none
+execute:
+  echo: false   # hide code by default
+  message: false
+  warning: false
 ---
 
 ## Quarto

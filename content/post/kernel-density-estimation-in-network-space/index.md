@@ -1,6 +1,16 @@
-# Kernel Density Estimation of Point Processes in Network Space in R
+---
+title: Kernel Density Estimation of Point Processes in Network Space in R
+summary: Run KDE estimates on a road network.
+date: 2021-01-22
+authors:
+  - admin
+tags:
+  - R programming
+  - Network analysis
+  - Kernel density
+---
 
-2021-01-22
+# Kernel Density Estimation of Point Processes in Network Space in R
 
 - [Running Code](#running-code)
 - [Set Up](#set-up)
@@ -15,31 +25,27 @@
 - [Calculate Network Kernel Density](#calculate-network-kernel-density)
 - [Mapping out the results](#mapping-out-the-results)
 
-**Update Septmeber 2025* This was a blog post originally from January 2021 where I wanted to implement a network-based KDE in R based on the algorithm outlined in [Xie & Yan (2008)](https://www.sciencedirect.com/science/article/pii/S0198971508000318). At the time there was not a ton of R functionality for network analysis, packages like `sfnetworks` did not yet exist and neither did `spNetwork` to conduct network based KDE. A much more thorough examination of network based KDEs and their implementation in R current as 2025 can be found here: https://jeremygelb.github.io/spNetwork/articles/NKDE.html I have, however, updated this post slightly in the year 2025 so that it will work, including the code for extracting police data and the use of the package `stplanr` for network cleaning. Most of the code still holds up as it relied on igraph and tidygraph directly. While likely not of particular use anymore given the advanced functionality found in `spNetwork`, this little post can stand as a relic of its time*
+**Update September 2025:* This was a blog post originally from January 2021 where I wanted to implement a network-based KDE in R based on the algorithm outlined in [Xie & Yan (2008)](https://www.sciencedirect.com/science/article/pii/S0198971508000318). At the time there was not a ton of R functionality for network analysis, packages like `sfnetworks` did not yet exist and neither did `spNetwork` to conduct network based KDE. A much more thorough examination of network based KDEs and their implementation in R current as 2025 can be found here: https://jeremygelb.github.io/spNetwork/articles/NKDE.html I have, however, updated this post slightly in the year 2025 so that it will work, including the code for extracting police data and the use of the package `stplanr` for network cleaning. Most of the code still holds up as it relied on igraph and tidygraph directly. While likely not of particular use anymore given the advanced functionality found in `spNetwork`, this little post can stand as a relic of its time*
 
-The network KDE is a a 1-D version of the planar kernel density estimator, with $\tau$ (bandwidth) based on network distances, rather than Euclidean distances and the output is based on *lixels*, a 1-D version of pixels), rather than pixels across 2-D euclidean space.
+The network KDE is a a 1-D version of the planar kernel density estimator, with ![\tau](https://latex.codecogs.com/svg.latex?%5Ctau "\tau") (bandwidth) based on network distances, rather than Euclidean distances and the output is based on *lixels*, a 1-D version of pixels), rather than pixels across 2-D euclidean space.
 
 To produce kernel density estimates (KDE) of point processes in a linear network:
 
-$$\lambda(z)= \sum_{i=1}^{n} \frac{1}{\tau} k(\frac{d_{iz}}{\tau})y_i$$
+![\lambda(z)= \sum\_{i=1}^{n} \frac{1}{\tau} k(\frac{d\_{iz}}{\tau})y_i](https://latex.codecogs.com/svg.latex?%5Clambda%28z%29%3D%20%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20%5Cfrac%7B1%7D%7B%5Ctau%7D%20k%28%5Cfrac%7Bd_%7Biz%7D%7D%7B%5Ctau%7D%29y_i "\lambda(z)= \sum_{i=1}^{n} \frac{1}{\tau} k(\frac{d_{iz}}{\tau})y_i")
 
 Where,
 
-$\lambda$(z) = density at location z;
+![\lambda](https://latex.codecogs.com/svg.latex?%5Clambda "\lambda")(z) = density at location z;
 
-$\tau$ is bandwidth linear network distance;
+![\tau](https://latex.codecogs.com/svg.latex?%5Ctau "\tau") is bandwidth linear network distance;
 
-$k$ is the kernel function, typically a function of the ratio of $d_{iz}$ to $\tau$;
+![k](https://latex.codecogs.com/svg.latex?k "k") is the kernel function, typically a function of the ratio of ![d\_{iz}](https://latex.codecogs.com/svg.latex?d_%7Biz%7D "d_{iz}") to ![\tau](https://latex.codecogs.com/svg.latex?%5Ctau "\tau");
 
-$d_{iz}$ is the linear network distance from event $i$ to location $z$.
+![d\_{iz}](https://latex.codecogs.com/svg.latex?d_%7Biz%7D "d_{iz}") is the linear network distance from event ![i](https://latex.codecogs.com/svg.latex?i "i") to location ![z](https://latex.codecogs.com/svg.latex?z "z").
 
-I wanted to implement a network-based KDE in R based on the algorithm outlined in [Xie & Yan (2008)](https://www.sciencedirect.com/science/article/pii/S0198971508000318). The network KDE is a a 1-D version of the planar kernel density estimator, with $\tau$ (bandwidth) based on network distances, rather than Euclidean distances and the output is based on *lixels*, a 1-D version of pixels), rather than pixels across 2-D euclidean space.
+I wanted to implement a network-based KDE in R based on the algorithm outlined in [Xie & Yan (2008)](https://www.sciencedirect.com/science/article/pii/S0198971508000318). The network KDE is a a 1-D version of the planar kernel density estimator, with ![\tau](https://latex.codecogs.com/svg.latex?%5Ctau "\tau") (bandwidth) based on network distances, rather than Euclidean distances and the output is based on *lixels*, a 1-D version of pixels), rather than pixels across 2-D euclidean space.
 
 In this post I use data from Vancouver, BC as a case study for implementing a network kernel density estimator of points in a network in R.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
 # Set Up
 

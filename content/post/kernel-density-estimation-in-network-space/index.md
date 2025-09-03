@@ -43,7 +43,7 @@ Where,
 - $k$ is the kernel function, typically a function of the ratio of $d_{iz}$ to $\tau$;
 - $d_{iz}$ is the linear network distance from event $i$ to location $z$.
 
-I wanted to implement a network-based KDE in R based on the algorithm outlined in [Xie & Yan (2008)](https://www.sciencedirect.com/science/article/pii/S0198971508000318). The network KDE is a a 1-D version of the planar kernel density estimator, with ![\tau](https://latex.codecogs.com/svg.latex?%5Ctau "\tau") (bandwidth) based on network distances, rather than Euclidean distances and the output is based on *lixels*, a 1-D version of pixels), rather than pixels across 2-D euclidean space.
+I wanted to implement a network-based KDE in R based on the algorithm outlined in [Xie & Yan (2008)](https://www.sciencedirect.com/science/article/pii/S0198971508000318). The network KDE is a 1-D version of the planar kernel density estimator, with $\tau$ (bandwidth) based on network distances rather than Euclidean distances, and the output is based on *lixels* (a 1-D version of pixels) rather than pixels across 2-D Euclidean space.
 
 In this post I use data from Vancouver, BC as a case study for implementing a network kernel density estimator of points in a network in R.
 

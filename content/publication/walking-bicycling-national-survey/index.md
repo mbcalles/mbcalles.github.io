@@ -36,7 +36,7 @@ featured: true
 
 hugoblox:
   ids:
-    doi: "10.1097/EDE.0000000000001696"
+    doi: "10.1016/j.pmedr.2021.101366"
 
 links:
   - type: pdf

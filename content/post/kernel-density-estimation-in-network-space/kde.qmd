@@ -1,17 +1,21 @@
 ---
-title: "Kernel Density Estimation of Point Processes in Network Space in R"
-date: "2021-01-22"
+title: Kernel Density Estimation of Point Processes in Network Space in R
+date: 2021-01-22
 toc: true
 math: true
 format:
   gfm:   # Quarto → GitHub-flavored Markdown
     wrap: none
+        # render math for Markdown outputs too:
+    html-math-method:
+      method: webtex
+      url: https://latex.codecogs.com/svg.latex?
 execute:
   message: false
   warning: false
 ---
 
-_*Update Septmeber 2025* This was a blog post originally from January 2021 where I wanted to implement a network-based KDE in R based on the algorithm outlined in [Xie & Yan (2008)](https://www.sciencedirect.com/science/article/pii/S0198971508000318). At the time there was not a ton of R functionality for network analysis, packages like `sfnetworks` did not yet exist and neither did `spNetwork` to conduct network based KDE. A much more thorough examination of network based KDEs and their implementation in R current as 2025 can be found here: https://jeremygelb.github.io/spNetwork/articles/NKDE.html I have, however, updated this post slightly in the year 2025 so that it will work, including the code for extracting police data and the use of the package `stplanr` for network cleaning. Most of the code still holds up as it relied on igraph and tidygraph directly.  While likely not of particular use anymore given the advanced functionality found in `spNetwork`, this little post can stand as a relic of its time_
+_*Update September 2025:* This was a blog post originally from January 2021 where I wanted to implement a network-based KDE in R based on the algorithm outlined in [Xie & Yan (2008)](https://www.sciencedirect.com/science/article/pii/S0198971508000318). At the time there was not a ton of R functionality for network analysis, packages like `sfnetworks` did not yet exist and neither did `spNetwork` to conduct network based KDE. A much more thorough examination of network based KDEs and their implementation in R current as 2025 can be found here: https://jeremygelb.github.io/spNetwork/articles/NKDE.html I have, however, updated this post slightly in the year 2025 so that it will work, including the code for extracting police data and the use of the package `stplanr` for network cleaning. Most of the code still holds up as it relied on igraph and tidygraph directly.  While likely not of particular use anymore given the advanced functionality found in `spNetwork`, this little post can stand as a relic of its time_
 
 The network KDE is a a 1-D version of the planar kernel density estimator, with $\tau$ (bandwidth) based on network distances, rather than Euclidean distances and the output is based on _lixels_, a 1-D version of pixels), rather than pixels across 2-D euclidean space.
 

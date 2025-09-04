@@ -10,6 +10,12 @@ design:
 
 # Page sections
 sections:
+  - block: resume-skills
+    content:
+      title: Technical Skills
+      username: admin
+    design:
+      show_skill_percentage: false
   - block: resume-experience
     content:
       username: admin
@@ -18,12 +24,6 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-skills
-    content:
-      title: Technical Skills
-      username: admin
-    design:
-      show_skill_percentage: false
   # - block: resume-awards
   #   content:
   #     title: Awards

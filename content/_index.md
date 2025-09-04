@@ -28,7 +28,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: flat-mountains.svg
+          filename: slanted-gradient.svg
           filters:
             brightness: 1.0
           size: cover

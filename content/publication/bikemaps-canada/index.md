@@ -31,7 +31,7 @@ tags:
 - Safety
 - Near misses
 - Injury
-featured: true
+featured: false
 
 hugoblox:
   ids:

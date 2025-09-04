@@ -83,7 +83,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://dspace.library.uvic.ca/items/5435346d-6ae0-473b-8108-e8dbda5b6a36'
-  - area: BSc Geography (Geomatics Concentration), with Distinction
+  - area: BSc Geography (Geomatics Concentration)
     institution: University of Victoria
     date_start: 2008-09-01
     date_end: 2013-05-02

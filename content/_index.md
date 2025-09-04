@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "3rem"
 
 sections:
   - block: resume-biography-3
@@ -39,10 +39,9 @@ sections:
       title: 'My Research'
       subtitle: 'Exploring how social and environmental contexts shape health outcomes'
       text: |-
-        My research applies geographic and epidemiological approaches to understanding and prevent road traffic injuries. Current and recent projects include:
-        - **Sociospatial inequities in road traffic injury risk** — identifying how neighbourhood social and built environments influence injury patterns across British Columbia.
-        - **Traffic injury administrative data linkage** — integrating health, police, and insurance datasets to generate population-level insights into injury risk.  
-        - **Advanced statistical and spatial methods** — applying Bayesian spatial models, survival analysis, and disease mapping to assess health inequities.
+        My research applies geographic and epidemiological approaches to understanding patterns of road traffic injuries. Current and recent projects include:
+        - **Sociospatial inequities in road traffic injury incidence** — identifying how neighbourhood social and built environments influence road traffic injury patterns across British Columbia.
+        - **Traffic injury administrative data linkage** — integrating health, police, and insurance datasets to understand underreporting and selection bias in traditional road safety data  
     design:
       columns: '1'
   - block: collection
@@ -66,16 +65,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
   - block: collection
     id: blog
     content:

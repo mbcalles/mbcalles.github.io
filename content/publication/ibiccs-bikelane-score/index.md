@@ -33,7 +33,7 @@ featured: false
 
 hugoblox:
   ids:
-  doi: "10.1016/j.tra.2018.10.024"
+    doi: "10.1016/j.tra.2018.10.024"
 
 links:
   - type: pdf

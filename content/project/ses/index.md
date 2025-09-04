@@ -1,6 +1,6 @@
 ---
 title: Small Area Spatial Modelling of Social Inequalities and Road Traffic Injury
-date: 2025-09-04
+date: 2020-09-01
 links:
   - type: site
     url: https://github.com/mbcalles/Area-Level-Deprivation-Traffic-Injury

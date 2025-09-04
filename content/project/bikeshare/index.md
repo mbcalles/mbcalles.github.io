@@ -1,6 +1,6 @@
 ---
 title: Impact of Public Bicycle Share Programs on Bicycling Collisions
-date: 2025-09-04
+date: 2020-09-02
 links:
   - type: site
     url: https://github.com/mbcalles/PBSP-Impact-Bicycling-Collisions

@@ -134,7 +134,7 @@ skills:
     items:
       - name: R / SQL
         description: Applied statistical programming and database analysis for public health research
-        icon: icons/r-project
+        icon: custom/r-project
       - name: Git/GitHub
         description: Version control and collaborative code management
         icon: brands/github

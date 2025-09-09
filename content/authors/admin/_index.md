@@ -134,10 +134,10 @@ skills:
     items:
       - name: R / SQL
         description: Applied statistical programming and database analysis for public health research
-        icon: "fa-solid fa-r"
+        icon: brands/r
       - name: Git/GitHub
         description: Version control and collaborative code management
-        icon: github
+        icon: brands/github
 
   - name: Spatial / GIS
     items:

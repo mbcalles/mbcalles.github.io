@@ -130,11 +130,11 @@ work:
       - Published findings in the high‑impact journal *Epidemiology*
 
 skills:
-  - name: Programming & Data
+  - name: Statistical Programming
     items:
-      - name: R / SAS / SQL
+      - name: R / SQL
         description: Applied statistical programming and database analysis for public health research
-        icon: code-bracket
+        icon: r
       - name: Git/GitHub
         description: Version control and collaborative code management
         icon: github

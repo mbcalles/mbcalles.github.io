@@ -139,23 +139,23 @@ skills:
         description: Version control and collaborative code management
         icon: brands/github
 
-  - name: Spatial / GIS
+  - name: Geographic Information Systems 
     items:
       - name: ArcGIS / QGIS / PostGIS
         description: Spatial data management and geographic information systems
-        icon: map
-      - name: Spatial analysis in R
-        description: Integrating spatial workflows with statistical methods
-        icon: chart-bar
+        icon: custom/layer-group
+      - name: Geocomputation in R
+        description: Reproducible script-based spatial analysis in R
+        icon: custom/book-atlas
 
-  - name: Modelling & Visualisation
+  - name: Modelling & Data Visualisation
     items:
       - name: Statistical modelling
         description: GLMs, mixed-effects, survival, and Bayesian spatial analysis
-        icon: function
+        icon: custom/table
       - name: R Markdown / ggplot2 / Tableau
         description: Reproducible reporting and data visualisation
-        icon: chart-bar
+        icon: custom/chart-line
 
 # # languages:
 #   - name: English

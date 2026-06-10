@@ -34,16 +34,23 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: 'My Research'
-      subtitle: 'Exploring how social and environmental contexts shape health outcomes'
-      text: |-
-        My research applies geographic and epidemiological approaches to understanding patterns of road traffic injuries. Current and recent projects include:
-        - **Sociospatial inequities in road traffic injury incidence** — identifying how neighbourhood social and built environments influence road traffic injury patterns across British Columbia.
-        - **Traffic injury administrative data linkage** — integrating health, police, and insurance datasets to understand underreporting and selection bias in traditional road safety data  
-    design:
-      columns: '1'
+ block: markdown
+  content:
+    title: 'Research'
+    subtitle: 'Linked administrative data and spatial methods for equity in population health'
+    text: |-
+      My research applies spatial epidemiology and linked administrative data to questions of geographic variation and equity in health outcomes, with particular attention to what surveillance and administrative data capture, what they miss, and how those gaps shape the evidence used in public health decision-making.
+
+      **Current work in HIV epidemiology**
+      - **Geographic and equity gaps in PrEP uptake** — evaluating spatial variation and sociodemographic inequities in pre-exposure prophylaxis access across British Columbia, to inform program planning and resource allocation.
+      - **Comorbidity trajectories in people living with HIV** — characterising patterns of multimorbidity clustering and progression to support care delivery as cohorts age.
+
+      **Methodological work**
+      - **Selection and ascertainment bias in administrative health data** — quantifying how data capture mechanisms differentially affect populations, and what this means for surveillance-based evidence and equity analyses.
+      - **Sociospatial inequities in road traffic injury** — a decade of work integrating health, police, and insurance datasets to understand how injury risk is distributed across populations and places, including a Health System Impact Fellowship embedded in the BC Ministry of Health.
+      - **Spatial risk modelling in environmental health** — earlier work of geospatial modelling of regional indoor radon risk across British Columbia.
+  design:
+    columns: '1'
   - block: collection
     id: papers
     content:

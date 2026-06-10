@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Research Fellow
+role: Epidemiologist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: The University of British Columbia
-    url:  https://rsph.med.ubc.ca/
+  - name: BC Centre for Excellence in HIV/AIDS
+    url:  
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,7 +47,7 @@ profiles:
 
 interests:
 - Health Inequities
-- Road Safety
+- Epidemiology
 - Environmental Health
 - Spatial Science
 
@@ -94,6 +94,17 @@ education:
       - Advanced Spatial Analysis 
       - Directed Studies: Applied Spatial Analysis Research
 work:
+ - position: Epidemiologist
+    company_name: Providence Healthcare
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-10-01
+    date_end: ''
+    summary: |-
+    - Applied epidemiologist at the BC Centre for Excellence in HIV/AIDS, conducting research on geographic variation and equity in HIV prevention and care
+    - Evaluating sociodemographic and spatial inequities in PrEP uptake across British Columbia to inform program planning and resource allocation
+    - Characterising trajectories of comorbidity clustering in people living with HIV using linked provincial administrative and clinical data
+    - Applying spatial analysis, GIS, and linked-data methods to advance equity-focused research in HIV epidemiology
   - position: Postdoctoral Research Fellow
     company_name: The University of British Columbia
     company_url: ''
@@ -199,6 +210,8 @@ skills:
 
 ## About Me
 
-I’m a health geographer and epidemiologist researching the intersections of injury, health, transportation, and social inequality.
-At the University of British Columbia, I use spatial and epidemiological methods with large linked datasets to study road traffic injury and active transportation.
-My work aims to produce evidence that supports safer, more equitable communities.
+I'm an applied epidemiologist at the BC Centre for Excellence in HIV/AIDS, using linked administrative and clinical data and spatial methods to study STI epidemiology, including HIV prevention and the health of people ageing with HIV. 
+I previously spent a decade in injury epidemiology, focused on road traffic injury and active transportation safety.
+
+
+

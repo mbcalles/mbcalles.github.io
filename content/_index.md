@@ -39,7 +39,7 @@ sections:
       title: 'Research'
       subtitle: 'Exploring how social and environmental contexts shape health outcomes'
       text: |-
-       My research applies spatial epidemiology and linked administrative data to questions of geographic variation and equity in health outcomes, with particular attention to what surveillance and administrative data capture, what they miss, and how those gaps shape the evidence used in public health decision-making.
+       My research applies spatial epidemiology and linked administrative data to questions of geographic variation and equity in health outcomes, with particular attention to what surveillance and administrative data capture, what they miss, and how those gaps shape the evidence used in public health decision making.
       **Current work in HIV epidemiology**
       - **Geographic and equity gaps in PrEP uptake** — evaluating spatial variation and sociodemographic inequities in pre-exposure prophylaxis access across British Columbia, to inform program planning and resource allocation.
       - **Comorbidity trajectories in people living with HIV** — characterising patterns of multimorbidity clustering and progression to support care delivery as cohorts age.

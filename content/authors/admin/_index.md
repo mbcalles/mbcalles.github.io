@@ -98,20 +98,19 @@ work:
     company_name: BC Centre for Excellence in HIV AIDS
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: '2023-08-31'
+    date_start: 2025-10-01
+    date_end: ''
     summary: |-
       - Applied epidemiologist at the BC Centre for Excellence in HIV/AIDS, conducting research on HIV prevention and the health of people ageing with HIV using linked administrative and clinical data
       - Evaluating geographic variation and equity in PrEP uptake across British Columbia to inform program planning and resource allocation
       - Investigating lung cancer epidemiology in people living with HIV
       - Characterising trajectories of comorbidity clustering in people living with HIV using linked provincial administrative and clinical data
-What changed and why:
   - position: Postdoctoral Research Fellow
     company_name: The University of British Columbia
     company_url: ''
     company_logo: ''
     date_start: 2023-01-01
-    date_end: ''
+    date_end: '2025-09-30'
     summary: |-
       - Led research focusing on sociocspatial inequalities in road traffic injury 
       - Leveraged large-scale administrative data to estimate area-level deprivation gradient 

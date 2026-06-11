@@ -94,17 +94,6 @@ education:
       - Advanced Spatial Analysis 
       - Directed Studies: Applied Spatial Analysis Research
 work:
- - position: Epidemiologist
-    company_name: Providence Healthcare
-    company_url: ''
-    company_logo: ''
-    date_start: 2025-10-01
-    date_end: ''
-    summary: |-
-    - Applied epidemiologist at the BC Centre for Excellence in HIV AIDS, conducting research on geographic variation and equity in HIV prevention and care
-    - Evaluating sociodemographic and spatial inequities in PrEP uptake across British Columbia to inform program planning and resource allocation
-    - Characterising trajectories of comorbidity clustering in people living with HIV using linked provincial administrative and clinical data
-    - Applying spatial analysis, GIS, and linked-data methods to advance equity-focused research in HIV epidemiology
   - position: Postdoctoral Research Fellow
     company_name: The University of British Columbia
     company_url: ''
@@ -112,9 +101,6 @@ work:
     date_start: 2023-01-01
     date_end: ''
     summary: |-
-      - Leading innovative research investigating road traffic injury patterns and severity among disadvantaged populations across British Columbia through social environment and equity lens
-      - Secured CIHR project funding as key contributor by conceptualizing research framework and developing methodological design
-      - Implementing advanced spatial analysis and disease mapping methodologies to identify risk patterns and their associations with neighborhood socioeconomic indicators
   - position: Health System Impact Postdoctoral Fellow
     company_name: BC Ministry Health and University of British Columbia
     company_url: ''

@@ -101,7 +101,7 @@ work:
     date_start: 2025-10-01
     date_end: ''
     summary: |-
-    - Applied epidemiologist at the BC Centre for Excellence in HIV/AIDS, conducting research on geographic variation and equity in HIV prevention and care
+    - Applied epidemiologist at the BC Centre for Excellence in HIV AIDS, conducting research on geographic variation and equity in HIV prevention and care
     - Evaluating sociodemographic and spatial inequities in PrEP uptake across British Columbia to inform program planning and resource allocation
     - Characterising trajectories of comorbidity clustering in people living with HIV using linked provincial administrative and clinical data
     - Applying spatial analysis, GIS, and linked-data methods to advance equity-focused research in HIV epidemiology

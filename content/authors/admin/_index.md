@@ -94,6 +94,18 @@ education:
       - Advanced Spatial Analysis 
       - Directed Studies: Applied Spatial Analysis Research
 work:
+  - position: Epidemiologist
+    company_name: BC Centre for Excellence in HIV AIDS
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: '2023-08-31'
+    summary: |-
+      - Applied epidemiologist at the BC Centre for Excellence in HIV/AIDS, conducting research on HIV prevention and the health of people ageing with HIV using linked administrative and clinical data
+      - Evaluating geographic variation and equity in PrEP uptake across British Columbia to inform program planning and resource allocation
+      - Investigating lung cancer epidemiology in people living with HIV
+      - Characterising trajectories of comorbidity clustering in people living with HIV using linked provincial administrative and clinical data
+What changed and why:
   - position: Postdoctoral Research Fellow
     company_name: The University of British Columbia
     company_url: ''
@@ -101,6 +113,9 @@ work:
     date_start: 2023-01-01
     date_end: ''
     summary: |-
+      - Led research focusing on sociocspatial inequalities in road traffic injury 
+      - Leveraged large-scale administrative data to estimate area-level deprivation gradient 
+      - Published findings in a peer-reviewed journal *Health and Place*
   - position: Health System Impact Postdoctoral Fellow
     company_name: BC Ministry Health and University of British Columbia
     company_url: ''

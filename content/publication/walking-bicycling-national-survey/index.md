@@ -32,7 +32,7 @@ tags:
 - Transportation data
 - Canada
 - Travel survey
-featured: true
+featured: false
 
 hugoblox:
   ids:
